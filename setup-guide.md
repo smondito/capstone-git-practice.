@@ -6,4 +6,4 @@ Development tools include VS Code, Docker for the website, Xcode for iOS, and An
 
 For this Git practice repository, I cloned the repository onto my Mac and created a separate branch named docs/setup-guide. I am using this branch to practice documenting changes, creating commits, and opening a pull request before merging into main.
 
-Setup status: Draft
+Setup status: Ready for review
